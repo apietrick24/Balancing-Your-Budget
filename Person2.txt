@@ -1,0 +1,6 @@
+Job true 1900.0
+Food false -200.0
+Rent false -700.0
+Utilities false -200.0
+Debt false -200.0
+Interest true 60.0

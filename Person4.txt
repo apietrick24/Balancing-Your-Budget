@@ -1,0 +1,9 @@
+Job true 14000.0
+Utilities false -400.0
+Subscriptions false -120.0
+Donations true 300.0
+Insurance false -470.0
+Chauffeur false -900.0
+Interest false -400.0
+Food false -1000.0
+Land Tax true 1300.0
