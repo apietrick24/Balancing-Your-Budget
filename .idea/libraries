@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="Discord Java API">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/JDA-3.8.0_423-withDependencies-no-opus.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <excluded>
+        <root url="jar://$USER_HOME$/Desktop/JDA-3.8.0_423-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/JDA-3.8.0_423-javadoc (1).jar!/" />
+      </excluded>
+    </library>
+  </component>
+</project>
